@@ -1,1 +1,1 @@
-# labkom.github-io
+# labkom.github.io
